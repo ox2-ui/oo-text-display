@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ox2:text-display',
   summary: 'DO NOT USE',
-  version: '1.4.0',
+  version: '1.5.0',
   git: ' /* Fill me in! */ '
 });
 
